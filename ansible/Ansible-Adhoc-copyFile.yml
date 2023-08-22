@@ -1,0 +1,2 @@
+ansible host-name -m copy "src=/tmp/file1 dest=/home/mo/file2"
+
